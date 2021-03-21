@@ -1,4 +1,4 @@
-from email_task.create import create_mail, send_mail
+from email_task_2.create import create_mail, send_mail
 
 to_list = []  # Список адресов для рассылки
 

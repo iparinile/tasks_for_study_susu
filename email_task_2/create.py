@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from bs4 import BeautifulSoup as bs
 
-from email_task.config import EmailConfig
+from email_task_2.config import EmailConfig
 
 
 def create_mail(subject: str, mail_body: str, recipient: str):

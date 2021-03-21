@@ -4,7 +4,7 @@ from email.header import decode_header
 import webbrowser
 import os
 
-from email_task.config import EmailConfig
+from email_task_2.config import EmailConfig
 
 
 # учетные данные

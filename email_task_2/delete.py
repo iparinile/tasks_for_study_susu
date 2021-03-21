@@ -2,7 +2,7 @@ import imaplib
 import email
 from email.header import decode_header
 
-from email_task.config import EmailConfig
+from email_task_2.config import EmailConfig
 
 
 # учетные данные
