@@ -64,4 +64,5 @@ tooltips = [
 # Добавляем HoverTool к фигуре
 fig.add_tools(HoverTool(tooltips=tooltips))
 # Визуализировать
+
 show(fig)
